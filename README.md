@@ -1,8 +1,3 @@
-Absolutely — here is the same README in clean, plain text, no emojis, no code blocks, no YAML formatting.
-Just copy and paste directly into GitHub.
-
----
-
 # Mini AI Interview Screener (Backend Only)
 
 This project is a lightweight backend service that evaluates candidate answers using an LLM (Gemini 2.5 Flash). It produces:
